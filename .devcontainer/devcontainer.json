@@ -1,0 +1,30 @@
+{
+  "name": "Lecture Notebooks DevContainer",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-hub",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "github.codespaces",
+        "github.copilot",
+        "github.copilot-chat",
+        "github.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "alwarg.git-branch-files",
+        "adam-bender.commit-message-editor",
+        "076923.python-image-preview",
+        "yzhang.markdown-all-in-one",
+        "nickfode.latex-formatter",
+        "howardzuo.vscode-git-tags",
+        "wayou.vscode-todo-highlight"
+      ]
+    }
+  }
+}
