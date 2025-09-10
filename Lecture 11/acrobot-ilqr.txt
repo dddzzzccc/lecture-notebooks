@@ -1,1 +1,1 @@
-请前往../Lecture 10/acrobot-ilqr.ipynb运行配套脚本
+请前往../Lecture 10/acrobot-ilqr-11.ipynb运行配套脚本
